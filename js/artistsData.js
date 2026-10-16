@@ -17,23 +17,21 @@ const artistsData = {
             gradient: "linear-gradient(135deg, #9333ea 0%, #db2777 100%)"
         },
         hero: {
-            image: "https://fotos.perfil.com/2026/03/13/trim/950/534/bts-2202350.jpg",
+            image: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
             alt: "BTS en concierto",
             title: "Más que una banda, una familia",
             description: "Un recorrido emocional por las melodías y los momentos que marcaron una era inolvidable.",
             quote: "«Even if this road is rough and we walk it, let's go together.»"
         },
         allGallery: [
-            { image: "https://hips.hearstapps.com/hmg-prod/images/bts-gettyimages-1473216503.jpg?resize=1200:*", title: "Magia en el escenario", description: "La energía inigualable de cada presentación en vivo." },
-            { image: "https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/27L3EAXVRVGDVPL4HWDJ764AUE.jpg", title: "Conexión eterna con ARMY", description: "Cada océano de luces púrpuras representa un lazo único." },
-            { image: "https://www.billboard.com/wp-content/uploads/2022/06/bts-getty-bb25-a-1548.jpg?w=942&h=628&crop=1", title: "Armonía y pasión", description: "Canciones que sanan el alma y acompañan en cada etapa." },
-            { image: "https://s.france24.com/media/display/b19a164e-28a6-11ee-bb73-005056bf30b4/w_1280/p169x94/bts-2.jpg", title: "Momentos inolvidables", description: "Instantes grabados para siempre en la memoria colectiva." }
+            { image: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80", title: "Magia en el escenario", description: "La energía inigualable de cada presentación en vivo." },
+            { image: "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=800&q=80", title: "Conexión eterna con ARMY", description: "Cada océano de luces púrpuras representa un lazo único." },
+            { image: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80", title: "Armonía y pasión", description: "Canciones que sanan el alma y acompañan en cada etapa." }
         ],
         allFacts: [
             { number: "01", text: "El debut oficial ocurrió el 13 de junio de 2013 con el sencillo 'No More Dream'." },
             { number: "02", text: "El color púrpura y la frase 'I Purple You' simbolizan confianza y amor duradero." },
-            { number: "03", text: "Han batido récords históricos en las listas globales de Billboard y estadios." },
-            { number: "04", text: "Su comunidad global, ARMY, impulsa campañas solidarias masivas en todo el mundo." }
+            { number: "03", text: "Han batido récords históricos en las listas globales de Billboard y estadios." }
         ],
         music: {
             title: "BTS - Arirang (Fan Edit)",
@@ -71,19 +69,18 @@ const artistsData = {
             gradient: "linear-gradient(135deg, #2563eb 0%, #06b6d4 100%)"
         },
         hero: {
-            image: "https://admin.eldiario.com.ar/uploads/2023/11/6561fc37f00bf.jpeg",
+            image: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1200&q=80",
             alt: "RM de BTS",
             title: "Namjoon",
             description: "El arte, los museos y las palabras convertidas en refugio.",
             quote: "«Persona, Ego, Shadow. Todo forma parte de quién eres.»"
         },
         allGallery: [
-            { image: "https://admin.eldiario.com.ar/uploads/2023/11/6561fc37f00bf.jpeg", title: "Namjooning", description: "Paseos entre naturaleza, libros y galerías de arte." },
-            { image: "https://los40.com/resizer/v2/https%3A%2F%2Flos40com.s3.us-east-1.amazonaws.com%2Flos40%2F2022%2F12%2F02%2Factualidad%2F1669974263_633008_1669974443_noticia_normal.jpg?auth=d0908eb4cc1f67b5b7f03541fb37701768fcd536e1f0e206b02a994ef08fef91&width=768&height=432&quality=70&smart=true", title: "Reflexiones", description: "Espacios de inspiración pura." }
+            { image: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80", title: "Namjooning", description: "Paseos entre naturaleza, libros y galerías de arte." },
+            { image: "https://images.unsplash.com/photo-1460723237483-7a6dc9d0b212?auto=format&fit=crop&w=800&q=80", title: "Reflexiones", description: "Espacios de inspiración pura." }
         ],
         allFacts: [
-            { number: "01", text: "Es un ávido coleccionista de arte contemporáneo y apasionado de la lectura." },
-            { number: "02", text: "Ha producido la gran mayoría de la discografía icónica de BTS." }
+            { number: "01", text: "Es un ávido coleccionista de arte contemporáneo y apasionado de la lectura." }
         ],
         music: {
             title: "RM - Mono (Ambient Mix)",
@@ -92,7 +89,7 @@ const artistsData = {
         },
         floatingConfig: {
             type: "📘",
-            messages: ["«Encuentra tu propio mapa en este vasto mundo.»", "«El clima de hoy se siente como una vieja canción de otoño.»"]
+            messages: ["«Encuentra tu propio mapa en este vasto mundo.»"]
         },
         closing: {
             title: "Keep cool & wander",
@@ -117,14 +114,14 @@ const artistsData = {
             gradient: "linear-gradient(135deg, #f43f5e 0%, #fb7185 100%)"
         },
         hero: {
-            image: "https://www.sonica.mx/u/fotografias/m/2022/10/18/f768x1-33230_33357_5050.jpg",
+            image: "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=1200&q=80",
             alt: "Jin de BTS",
             title: "Seokjin",
             description: "Notas altas que emocionan y una sonrisa que ilumina el mundo.",
             quote: "«The Astronaut: You're my universe.»"
         },
         allGallery: [
-            { image: "https://www.sonica.mx/u/fotografias/m/2022/10/18/f768x1-33230_33357_5050.jpg", title: "Epiphany", description: "El amor propio como el viaje más importante." }
+            { image: "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=800&q=80", title: "Epiphany", description: "El amor propio como el viaje más importante." }
         ],
         allFacts: [
             { number: "01", text: "Su tema solista 'The Astronaut' fue co-escrito junto a Coldplay." }
@@ -136,7 +133,7 @@ const artistsData = {
         },
         floatingConfig: {
             type: "🌟",
-            messages: ["«You and me in this galaxy...»", "«Sonríe, incluso cuando el día parezca nublado.»"]
+            messages: ["«You and me in this galaxy...»"]
         },
         closing: {
             title: "Moonlight memories",
@@ -161,14 +158,14 @@ const artistsData = {
             gradient: "linear-gradient(135deg, #475569 0%, #94a3b8 100%)"
         },
         hero: {
-            image: "https://aws.glamour.mx/prod/designs/v1/assets/3245/2676_1200.jpg",
+            image: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1200&q=80",
             alt: "SUGA de BTS",
             title: "Agust D",
             description: "El piano, las teclas y la fuerza de un sueño cumplido.",
             quote: "«Dream, we will eventually converge in full bloom.»"
         },
         allGallery: [
-            { image: "https://aws.glamour.mx/prod/designs/v1/assets/3245/2676_1200.jpg", title: "D-Day Tour", description: "Fuerza y libertad absoluta sobre el escenario." }
+            { image: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80", title: "D-Day Tour", description: "Fuerza y libertad absoluta sobre el escenario." }
         ],
         allFacts: [
             { number: "01", text: "Produce música desde su adolescencia y ha colaborado con leyendas globales." }
@@ -180,7 +177,7 @@ const artistsData = {
         },
         floatingConfig: {
             type: "🎹",
-            messages: ["«The last stop where dreams become reality.»", "«Todo va a estar bien, ya pasamos lo peor.»"]
+            messages: ["«The last stop where dreams become reality.»"]
         },
         closing: {
             title: "Daechwita spirit",
@@ -205,14 +202,14 @@ const artistsData = {
             gradient: "linear-gradient(135deg, #f59e0b 0%, #10b981 100%)"
         },
         hero: {
-            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6sN8mBwB_W_KxYV819F9-9B9sV0B9K98B9w&s",
+            image: "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1200&q=80",
             alt: "J-Hope de BTS",
             title: "J-Hope",
             description: "I'm your hope, I'm your angel, you're my hope.",
             quote: "«Safety zone: donde la pasión y el ritmo se encuentran.»"
         },
         allGallery: [
-            { image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6sN8mBwB_W_KxYV819F9-9B9sV0B9K98B9w&s", title: "Jack In The Box", description: "Innovación y autenticidad artística sin límites." }
+            { image: "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=800&q=80", title: "Jack In The Box", description: "Innovación y autenticidad artística sin límites." }
         ],
         allFacts: [
             { number: "01", text: "Es el pilar rítmico y director de coreografías en las presentaciones en vivo." }
@@ -224,7 +221,7 @@ const artistsData = {
         },
         floatingConfig: {
             type: "☀️",
-            messages: ["«Smile on, the sun is always shining for you.»", "«¡Hoseok llegó para alegrar tu día!»"]
+            messages: ["«Smile on, the sun is always shining for you.»"]
         },
         closing: {
             title: "Jack in the box",
@@ -249,26 +246,42 @@ const artistsData = {
             gradient: "linear-gradient(135deg, #ec4899 0%, #8b5cf6 100%)"
         },
         hero: {
-            image: "https://www.billboard.com/wp-content/uploads/2023/03/Jimin-BTS-billboard-1548.jpg?w=942&h=628&crop=1",
+            image: "img/jimin3.jpg",
             alt: "Jimin de BTS",
             title: "Jimin",
             description: "Like Crazy: melodías envolventes que atrapan los sentidos.",
             quote: "«Promise: I want you to be your light.»"
         },
-        allGallery: [
-            { image: "https://www.billboard.com/wp-content/uploads/2023/03/Jimin-BTS-billboard-1548.jpg?w=942&h=628&crop=1", title: "Face of Art", description: "Vulnerabilidad y belleza en cada nota interpretada." }
+      allGallery: [
+            { image: "img/jimin1.jpg", title: "Face of Art", description: "Vulnerabilidad y belleza en cada nota interpretada." },
+            { image: "img/jimin2.jpg", title: "Danza contemporánea", description: "La elegancia hecha movimiento sobre el escenario." },
+            { image: "img/jimin0.jpg", title: "Momentos de luz", description: "La calidez y empatía que transmite siempre a sus fans." }
         ],
-        allFacts: [
-            { number: "01", text: "Primer solista coreano en alcanzar el número 1 en el Billboard Hot 100." }
+      allFacts: [
+            { number: "01", text: "Primer solista coreano en alcanzar el número 1 en el Billboard Hot 100." },
+            { number: "02", text: "Fue el mejor estudiante de su clase en el departamento de danza moderna en la Escuela Superior de Artes de Busan." },
+            { number: "03", text: "Es ampliamente reconocido por su gran generosidad, realizando donaciones constantes y silenciosas a la educación y la infancia." }
         ],
         music: {
-            title: "Jimin - Like Crazy Vibes",
-            audioUrl: "https://actions.google.com/sounds/v1/ambiences/night_train.ogg",
+            title: "BTS - Life goes on",
+            audioUrl: "musica/BTS_life_goes_on.mp4",
             loop: true
         },
         floatingConfig: {
             type: "🌸",
-            messages: ["«You never walk alone in this journey.»", "«Cuídate mucho y recuerda lo valioso que eres.»"]
+            messages: [
+                "«You never walk alone in this journey.»",
+                "«Cuídate mucho y recuerda lo valioso que eres.»",
+                "«I want you to be your light, baby.»",
+                "«Incluso en los días grises, tu sonrisa ilumina todo.»",
+                "«Gracias por quedarte a mi lado y caminar juntos.»",
+                "«Let's love ourselves, and keep moving forward.»",
+                "«Eres mucho más fuerte de lo que imaginas.»",
+                "«Que la música siempre sea un refugio cálido para tu corazón.»",
+                "«No estás solo, nuestros latidos están conectados por la música.»",
+                "«Recuerda sonreír hoy; te ves hermoso cuando lo haces.»",
+                "«El esfuerzo y la pasión nunca traicionan tus sueños.»"
+            ]
         },
         closing: {
             title: "With You",
@@ -293,14 +306,14 @@ const artistsData = {
             gradient: "linear-gradient(135deg, #0ea5e9 0%, #6366f1 100%)"
         },
         hero: {
-            image: "https://www.sonica.mx/u/fotografias/m/2023/9/5/f768x1-48227_48354_5050.jpg",
+            image: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
             alt: "V de BTS",
             title: "Taehyung",
             description: "Winter Bear, jazz nocturno y una mirada única sobre la belleza.",
             quote: "«Scenery: captured moments in the gallery of time.»"
         },
         allGallery: [
-            { image: "https://www.sonica.mx/u/fotografias/m/2023/9/5/f768x1-48227_48354_5050.jpg", title: "Slow Dancing", description: "Melodías relajantes que invitan a soñar despiertos." }
+            { image: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80", title: "Slow Dancing", description: "Melodías relajantes que invitan a soñar despiertos." }
         ],
         allFacts: [
             { number: "01", text: "Amante del saxofón, el jazz clásico y la fotografía analógica." }
@@ -337,30 +350,44 @@ const artistsData = {
             gradient: "linear-gradient(135deg, #10b981 0%, #3b82f6 100%)"
         },
         hero: {
-            image: "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1249767675.jpg?resize=1200:*",
+            image: "img/jungkook1.jpg",
             alt: "Jungkook de BTS",
             title: "Jungkook",
             description: "Seven days a week: energía imparable y talento legendario.",
             quote: "«Standing Next to You: un amor que trasciende cualquier escenario.»"
         },
         allGallery: [
-            { image: "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1249767675.jpg?resize=1200:*", title: "Golden Moments", description: "Pasión entregada en cada actuación en vivo." }
+            { image: "img/jungkook0.jpg", title: "Golden Moments", description: "Pasión entregada en cada actuación en vivo con una energía arrolladora." },
+            { image: "img/jungkook2.jpg", title: "Euphoria en el escenario", description: "Momentos mágicos flotando sobre el público y llenando de luz cada rincón." },
+            { image: "img/jungkook3.jpg", title: "Pasión por el arte", description: "Creando, cantando y dejando el alma en cada proyecto que emprende." }
         ],
         allFacts: [
-            { number: "01", text: "Ha batido récords globales con su álbum debut en solitario 'GOLDEN'." }
+            { number: "01", text: "Ha batido récords globales con su álbum debut en solitario 'GOLDEN'." },
+            { number: "02", text: "Es conocido cariñosamente como el 'Golden Maknae' ya que destaca con excelencia en todo lo que hace, desde el canto y la danza hasta la pintura y la edición de video." },
+            { number: "03", text: "Participó activamente en la composición y producción de varios de los grandes éxitos del grupo y de sus propias canciones solistas." }
         ],
         music: {
-            title: "Jungkook - Seven Beats",
-            audioUrl: "https://actions.google.com/sounds/v1/ambiences/coffee_shop.ogg",
+            title: "BTS - Life goes on",
+            audioUrl: "musica/BTS_life_goes_on.mp4",
             loop: true
         },
         floatingConfig: {
             type: "🔥",
-            messages: ["«You bring me to my saneness.»", "«Dale con todo a tus metas sin mirar atrás.»"]
+            messages: [
+                "«You bring me to my saneness, every single day.»",
+                "«Dale con todo a tus metas sin mirar atrás; eres imparable.»",
+                "«Seven days a week, mi corazón late al ritmo de tus sueños.»",
+                "«Never let go of the passion that makes you shine.»",
+                "«El esfuerzo de hoy es la gloria de mañana. ¡Tú puedes con todo!»",
+                "«Incluso en los momentos difíciles, encuentra motivos para sonreír.»",
+                "«Gracias por ser mi inspiración constante en este viaje.»",
+                "«Un latido dorado que resuena por siempre en la eternidad.»",
+                "«Sueña en grande y trabaja duro para alcanzar las estrellas.»"
+            ]
         },
         closing: {
             title: "Golden memories",
-            message: "Brilla siempre con luz propia."
+            message: "Brilla siempre con luz propia y nunca dejes de perseguir tus sueños."
         }
     },
     "airbag": {
@@ -381,15 +408,15 @@ const artistsData = {
             gradient: "linear-gradient(135deg, #1d4ed8 0%, #dc2626 100%)"
         },
         hero: {
-            image: "https://es.rollingstone.com/wp-content/uploads/2025/05/62A7004-2.jpg",
+            image: "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=1200&q=80",
             alt: "Airbag en vivo",
             title: "El futuro prende mi ansiedad",
             description: "Riffs demoledores, solos inolvidables y la pasión inquebrantable del rock.",
             quote: "«Una descarga de energía pura directo al corazón de los fans.»"
         },
         allGallery: [
-            { image: "https://es.rollingstone.com/wp-content/uploads/2025/05/62A7004-2.jpg", title: "Estadios vibrantes", description: "Guitarras encendidas bajo el cielo nocturno." },
-            { image: "https://billboard.com.ar/wp-content/uploads/2023/12/Airbag-Por-Guido-Adler-2-scaled.jpg", title: "Pasión en directo", description: "La comunión perfecta con el público." }
+            { image: "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=800&q=80", title: "Estadios vibrantes", description: "Guitarras encendidas bajo el cielo nocturno." },
+            { image: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80", title: "Pasión en directo", description: "La comunión perfecta con el público." }
         ],
         allFacts: [
             { number: "01", text: "Liderada por Patricio, Guido y Gastón Sardelli, consolidando generaciones de rock argentino." }
@@ -429,14 +456,14 @@ const artistsData = {
             gradient: "linear-gradient(135deg, #ec4899 0%, #a855f7 100%)"
         },
         hero: {
-            image: "https://m.media-amazon.com/images/M/MV5BM2JhZWJmMDEtNTU5MS00YmQ3LTk1NjMtOGFlMjM2MjZlNjg5XkEyXkFqcGc@._V1_.jpg",
+            image: "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=1200&q=80",
             alt: "Ariana Grande",
             title: "Ain't got no tears left to cry",
             description: "Un universo estelar de nubes pastel, notas celestiales y emociones profundas.",
             quote: "«Even with no tears left, the music keeps us floating.»"
         },
         allGallery: [
-            { image: "https://m.media-amazon.com/images/M/MV5BM2JhZWJmMDEtNTU5MS00YmQ3LTk1NjMtOGFlMjM2MjZlNjg5XkEyXkFqcGc@._V1_.jpg", title: "Estética celestial", description: "Atmósferas de ensueño inspiradas en sus eras más emblemáticas." }
+            { image: "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=800&q=80", title: "Estética celestial", description: "Atmósferas de ensueño inspiradas en sus eras más emblemáticas." }
         ],
         allFacts: [
             { number: "01", text: "Posee múltiples récords Guinness gracias a sus debuts en las listas globales." }
@@ -476,14 +503,14 @@ const artistsData = {
             gradient: "linear-gradient(135deg, #991b1b 0%, #d97706 100%)"
         },
         hero: {
-            image: "https://media.vogue.mx/photos/64e15be96e16315ea8208e2c/master/pass/taylor-swift-cantante.jpg",
+            image: "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=1200&q=80",
             alt: "Taylor Swift en The Eras Tour",
             title: "The Eras of Our Lives",
             description: "Un recorrido poético por cada capítulo, pulsera de la amistad y melodía eterna.",
             quote: "«Long live all the magic we made.»"
         },
         allGallery: [
-            { image: "https://media.vogue.mx/photos/64e15be96e16315ea8208e2c/master/pass/taylor-swift-cantante.jpg", title: "The Eras Tour", description: "Estadios repletos cantando cada verso al unísono." }
+            { image: "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=800&q=80", title: "The Eras Tour", description: "Estadios repletos cantando cada verso al unísono." }
         ],
         allFacts: [
             { number: "01", text: "Es la única artista en ganar cuatro premios Grammy al Álbum del Año." }
@@ -523,14 +550,14 @@ const artistsData = {
             gradient: "linear-gradient(135deg, #f43f5e 0%, #fbbf24 100%)"
         },
         hero: {
-            image: "https://www.rollingstone.com/wp-content/uploads/2019/08/20190723_Rolling_Stone_Harry_Styles_Rocks_0119_03_ext_RGB-LEAD-NEW.jpg",
+            image: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
             alt: "Harry Styles",
             title: "Treat People With Kindness",
             description: "Un refugio de luz solar, plumas, lentejuelas y buena música.",
             quote: "«You sunshine, you temptress, you're the best.»"
         },
         allGallery: [
-            { image: "https://www.rollingstone.com/wp-content/uploads/2019/08/20190723_Rolling_Stone_Harry_Styles_Rocks_0119_03_ext_RGB-LEAD-NEW.jpg", title: "Love On Tour", description: "Alegría compartida bajo boas de colores y sombreros." }
+            { image: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80", title: "Love On Tour", description: "Alegría compartida bajo boas de colores y sombreros." }
         ],
         allFacts: [
             { number: "01", text: "Su lema 'Treat People With Kindness' guía una comunidad global de respeto." }
@@ -570,14 +597,14 @@ const artistsData = {
             gradient: "linear-gradient(135deg, #dc2626 0%, #1e1b4b 100%)"
         },
         hero: {
-            image: "https://www.billboard.com/wp-content/uploads/2024/11/Duki-cr-Guido-Adler-press-2024-billboard-1548.jpg?w=942&h=628&crop=1",
+            image: "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=1200&q=80",
             alt: "Duki en vivo",
             title: "Modo Diablo",
             description: "De las plazas de Buenos Aires a la cima del mundo con barras de pura pasión.",
             quote: "«Si te sentís solo, escuchá esto: el barrio y los sueños llegan lejos.»"
         },
         allGallery: [
-            { image: "https://www.billboard.com/wp-content/uploads/2024/11/Duki-cr-Guido-Adler-press-2024-billboard-1548.jpg?w=942&h=628&crop=1", title: "Estadios históricos", description: "El rugido de miles de almas." }
+            { image: "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=800&q=80", title: "Estadios históricos", description: "El rugido de miles de almas." }
         ],
         allFacts: [
             { number: "01", text: "Primer artista argentino en agotar el Estadio River Plate en múltiples ocasiones." }
@@ -617,14 +644,14 @@ const artistsData = {
             gradient: "linear-gradient(135deg, #475569 0%, #3b82f6 100%)"
         },
         hero: {
-            image: "https://lh3.googleusercontent.com/9ezj35tcKQflXRaNwymPeg4SMqXr918O20J_Cr-lEblgz4TO-bYg4Dz6pbKaYqEzmRTT7i2H3BZycMo=w2880-h1200-p-l90-rj",
+            image: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1200&q=80",
             alt: "Gustavo Cerati en concierto",
             title: "Poder decir adiós es crecer",
             description: "Un viaje espacial y sonoro a través de acordes que desafiaron el tiempo.",
             quote: "«Desanudar el tiempo con canciones que flotan para siempre en el espacio.»"
         },
         allGallery: [
-            { image: "https://lh3.googleusercontent.com/9ezj35tcKQflXRaNwymPeg4SMqXr918O20J_Cr-lEblgz4TO-bYg4Dz6pbKaYqEzmRTT7i2H3BZycMo=w2880-h1200-p-l90-rj", title: "Fuerza Natural", description: "Paisajes sonoros inolvidables." }
+            { image: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80", title: "Fuerza Natural", description: "Paisajes sonoros inolvidables." }
         ],
         allFacts: [
             { number: "01", text: "Con Soda Stereo y como solista, revolucionó la estética musical de Iberoamérica." }
